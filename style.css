@@ -1,0 +1,123 @@
+body{
+    margin: 0 auto;
+}
+.container{
+    margin-bottom: 50px;
+}
+
+.top{
+    padding-top: 20px;
+}
+.form {
+    background-color: white;
+}
+
+
+.bg-color{
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
+
+.carousel-item{
+    padding: 30px 40px;
+}
+
+.price{
+    color:#FF307F;
+}
+
+.buy-now{
+    background-image: linear-gradient(to bottom,#FF4E94 0%, #FF1872 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.shoes{
+    margin-top: 70px;
+}
+
+.watch-bg-color, .bag-bg-color, .shoes-bg-color{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.watch-bg-color, .bag-bg-color, .shoes-bg-color h1{
+    color: white;
+}
+
+.watch-bg-color{
+    background-image: linear-gradient(to right, #FF9C35 0%, #FFD019);
+}
+
+.bag-bg-color{
+    background-image: linear-gradient(to bottom, #FF5498 0%, #FF1671 );
+}
+
+.shoes-bg-color{
+    background-image: linear-gradient(to right, #4289FF 0%, #3F07F8);
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    height: 500px;
+    padding-top: 50px;
+    margin-bottom: 50px;
+}
+
+.contact-side{
+    height: 244px;
+}
+
+.grey-color{
+    color: grey;
+}
+
+.search-bar{
+   border: none;
+   font-size: 16px; 
+   color:#D3D3D3;
+   border-top-left-radius: 7px;
+   border-bottom-left-radius: 7px;
+   width: 350px;
+   padding: 10px 20px;
+}
+
+#navigation .search-bar{
+    background-color: #F8F8F8;
+    
+}
+
+
+.search-icon{
+   background-color: #F8F8F8;
+   border-top-right-radius: 7px;
+   border-bottom-right-radius: 7px;
+}
+
+
+.search-bar:active{
+    border-color: #FF5498;
+}
+
+.send-button{
+    border: none;
+    background-image: linear-gradient(to right,#FF4E94 0%, #FF1872 100%);
+    color: white;
+    border: none;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.margin{
+    margin-top: 15px;
+}
+
+footer{
+    text-align: center;
+}
